@@ -815,3 +815,4 @@ C:\Users\Usuário\Desktop\Educação\Senai\Programador Full Stack\07 - Desenvolv
 C:\Users\Usuário\Desktop\Educação\Senai\Programador Full Stack\07 - Desenvolvimento de APIs\Atividades\Atividade 3\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\Usuário\Desktop\Educação\Senai\Programador Full Stack\07 - Desenvolvimento de APIs\Atividades\Atividade 3\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Usuário\Desktop\Educação\Senai\Programador Full Stack\07 - Desenvolvimento de APIs\Atividades\Atividade 3\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Usuário\Desktop\Educação\Senai\Programador Full Stack\07 - Desenvolvimento de APIs\Atividades\Atividade 3\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
